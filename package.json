@@ -2,12 +2,12 @@
   "name": "boilerplate-repo-node",
   "version": "1.0.0",
   "description": "App Boilerplate",
-  "main": "src/index.js",
+  "main": "./src/index.js",
   "author": "Dyam Marcano <dyam.marcano@gmail.com>",
   "license": "MIT",
   "dependencies": {},
   "scripts": {
-    "start": "node src/"
+    "start": "node ./src/"
   },
   "repository": {
     "type": "git",
